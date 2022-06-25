@@ -6,19 +6,23 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [알고리즘 기초](Algorithm/브루트 포스(Brute Force).md) - Sat Jun 25 18:11:51 2022 +0900
 - [List Comprehension](python/Comprehension.md) - Sat Jun 25 00:01:51 2022 +0900
-- [지식인 질문 댓글란 자동 홍보프로그램](program/auto_PR.md) - Mon Jun 20 19:46:04 2022 +0900
 
 ### Categories
 
+- [Algorithm](#Algorithm)
 - [program](#program)
 - [python](#python)
+
+### [Algorithm](#Algorithm)
+- [알고리즘 기초](Algorithm/브루트 포스(Brute Force).md)
 
 ### [program](#program)
 - [지식인 질문 댓글란 자동 홍보프로그램](program/auto_PR.md)
