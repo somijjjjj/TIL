@@ -6,7 +6,7 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -23,13 +23,14 @@ _4 TILs and counting..._
 
 ### [Algorithm](#Algorithm)
 - [알고리즘 기초](Algorithm/브루트 포스(Brute Force).md)
+- [알고리즘 기초](Algorithm/에라토스테네스의 체.md)
 
 ### [program](#program)
 - [지식인 질문 댓글란 자동 홍보프로그램](program/auto_PR.md)
 
 ### [python](#python)
 - [List Comprehension](python/Comprehension.md)
-- [<<<<<<< Updated upstream](python/format함수.md)
+- [python, 내장함수 format()](python/format함수.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
