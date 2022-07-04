@@ -12,7 +12,7 @@ _6 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [알고리즘 기초](Algorithm/브루트 포스(Brute Force).md) - Sat Jun 25 18:11:51 2022 +0900
+- [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md) - Sat Jun 25 18:11:51 2022 +0900
 - [List Comprehension](python/Comprehension.md) - Sat Jun 25 00:01:51 2022 +0900
 
 ### Categories
@@ -22,12 +22,12 @@ _6 TILs and counting..._
 - [python](#python)
 
 ### [Algorithm](#Algorithm)
-- [알고리즘 기초](Algorithm/브루트 포스(Brute Force).md)
-- [알고리즘 기초](Algorithm/에라토스테네스의 체.md)
+- [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md)
+- [에라토스테네스의 체](Algorithm/에라토스테네스의 체.md)
 - [재귀함수](Algorithm/재귀함수.md)
 
 ### [program](#program)
-- [지식인 질문 댓글란 자동 홍보프로그램](program/auto_PR.md)
+- [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
 
 ### [python](#python)
 - [List Comprehension](python/Comprehension.md)
