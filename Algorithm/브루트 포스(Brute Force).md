@@ -1,5 +1,6 @@
-# 알고리즘 기초
-## 브루트 포스 (Brute Force)
+# 브루트 포스 (Brute Force)
+
+<br>
 
 - 사전적 의미  
     - brute 동물, force 힘  

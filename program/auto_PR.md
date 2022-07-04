@@ -1,13 +1,19 @@
-# 지식인 질문 댓글란 자동 홍보프로그램
+# 지식인 질문 자동 댓글 프로그램
+
+<br> 
 
 ## 1. Qt Designer
 <img src="image\auto_PR_1.png" width="300" height="200">
 <img src="image\auto_PR_2.png" width="300" height="200">
 - Qt Designer로 프로그램 UI를 만든 후 버튼 함수기능 추가
 
+<br> 
+
 ## 2. ui -> py 파일로 변환
 
 - 위에서 생성된 ui 파일을 py파일로 변환
+
+<br> 
 
 ## 3. starter.py 생성
 - cmd 실행 : 시작키를 누르고 CMD를 입력하여 명령 프롬프트를 실행합니다.
@@ -17,6 +23,7 @@
 - 입력 : python -m PyQt5.uic.pyuic -x main.ui -o main_cmd.py
     - ui 파일 이름과 변환할 파일 이름을 확인하세요.
 
+<br> 
 
 ## 4. start() 함수에 프로그램 알고리즘 작성
 <img src="image\auto_PR_3.png" width="300" height="200">
@@ -106,12 +113,20 @@ def start(self):
             self.textBrowser.append(f"댓글홍보작업중 : {number}")
 
     driver.quit()
+
 ```
+<br> 
+
 
 ### 1. 네이버 로그인
 ### 2. 지식인 키워드 검색
 ### 3. 질문 link 접속 후 댓글란 작성  
 
+<br> 
+
 # 
+
+<br> 
+
 - 댓글은 지식인 등급에 따라 하루에 작성가능한 횟수가 정해져있었음 (평민, 50개)
 - 댓글이 아닌 질문 답변하기로 새로 만들어볼 것.
