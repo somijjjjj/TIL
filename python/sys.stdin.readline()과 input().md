@@ -1,9 +1,13 @@
-# sys 모듈이란?
+# sys.stdin.readline()과 input()
+<br>
+
+## sys 모듈이란?
 sys 모듈은 파이썬 인터프리터가 제공하는 변수와 함수를 직접 제어할 수 있게 해주는 모듈이다.
 sys 모듈은 강제로 스크립트를 종료할 수도 있고 파이썬 모듈들이 저장된 위치등을 알 수도 있는 등 시스템을 제어할 수 있는 모듈
 
+---
 
-# sys.stdin.readline() 과 input() 차이점
+## sys.stdin.readline() 과 input() 차이점
 
 
 input은 입력받은 값의 개행(줄바꿈) 문자를 삭제시켜 반환되고, **prompt message**를 파라미터로 받아서 사용할 수 있다.
