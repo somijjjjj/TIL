@@ -6,7 +6,7 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_6 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -22,7 +22,9 @@ _6 TILs and counting..._
 - [python](#python)
 
 ### [Algorithm](#Algorithm)
+- [](Algorithm/버블 정렬(Bubble Sort).md)
 - [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md)
+- [](Algorithm/삽입 정렬(insertion sort).md)
 - [에라토스테네스의 체](Algorithm/에라토스테네스의 체.md)
 - [재귀함수](Algorithm/재귀함수.md)
 
@@ -32,6 +34,7 @@ _6 TILs and counting..._
 ### [python](#python)
 - [List Comprehension](python/Comprehension.md)
 - [python, 내장함수 format()](python/format함수.md)
+- [sys 모듈이란?](python/sys.stdin.readline()과 input().md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
