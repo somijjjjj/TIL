@@ -12,8 +12,8 @@ _10 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [데이터 분석이란?](data_analysis/데이터 분석이란.md) - Tue Jul 12 23:35:19 2022 +0900
-- [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md) - Sat Jun 25 18:11:51 2022 +0900
+- [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(Bubble Sort).md) - Tue Jul 12 23:39:09 2022 +0900
+- [브루트 포스 (Brute Force)](Algorithm/브루트_포스(Brute Force).md) - Tue Jul 12 23:39:09 2022 +0900
 
 ### Categories
 
@@ -23,14 +23,14 @@ _10 TILs and counting..._
 - [python](#python)
 
 ### [Algorithm](#Algorithm)
-- [버블 정렬(Bubble Sort)](Algorithm/버블 정렬(Bubble Sort).md)
-- [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md)
-- [삽입 정렬(Insertion Sort)](Algorithm/삽입 정렬(insertion sort).md)
-- [에라토스테네스의 체](Algorithm/에라토스테네스의 체.md)
+- [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(Bubble Sort).md)
+- [브루트 포스 (Brute Force)](Algorithm/브루트_포스(Brute Force).md)
+- [삽입 정렬(Insertion Sort)](Algorithm/삽입_정렬(insertion sort).md)
+- [에라토스테네스의 체](Algorithm/에라토스테네스의_체.md)
 - [재귀함수](Algorithm/재귀함수.md)
 
 ### [data_analysis](#data_analysis)
-- [데이터 분석이란?](data_analysis/데이터 분석이란.md)
+- [데이터 분석이란?](data_analysis/데이터_분석이란.md)
 
 ### [program](#program)
 - [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
@@ -38,7 +38,7 @@ _10 TILs and counting..._
 ### [python](#python)
 - [List Comprehension](python/Comprehension.md)
 - [python, 내장함수 format()](python/format함수.md)
-- [sys.stdin.readline()과 input()](python/sys.stdin.readline()과 input().md)
+- [sys.stdin.readline()과 input()](python/sys.stdin.readline()_input().md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
