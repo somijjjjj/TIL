@@ -6,18 +6,19 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [데이터 분석이란?](data_analysis/데이터 분석이란.md) - Tue Jul 12 23:35:19 2022 +0900
 - [브루트 포스 (Brute Force)](Algorithm/브루트 포스(Brute Force).md) - Sat Jun 25 18:11:51 2022 +0900
-- [List Comprehension](python/Comprehension.md) - Sat Jun 25 00:01:51 2022 +0900
 
 ### Categories
 
 - [Algorithm](#Algorithm)
+- [data_analysis](#data_analysis)
 - [program](#program)
 - [python](#python)
 
@@ -27,6 +28,9 @@ _9 TILs and counting..._
 - [삽입 정렬(Insertion Sort)](Algorithm/삽입 정렬(insertion sort).md)
 - [에라토스테네스의 체](Algorithm/에라토스테네스의 체.md)
 - [재귀함수](Algorithm/재귀함수.md)
+
+### [data_analysis](#data_analysis)
+- [데이터 분석이란?](data_analysis/데이터 분석이란.md)
 
 ### [program](#program)
 - [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
