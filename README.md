@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md) - Wed Jul 13 23:14:31 2022 +0900
 - [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(BubbleSort).md) - Tue Jul 12 23:40:54 2022 +0900
-- [브루트 포스 (Brute Force)](Algorithm/브루트_포스(BruteForce).md) - Tue Jul 12 23:40:54 2022 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _10 TILs and counting..._
 - [브루트 포스 (Brute Force)](Algorithm/브루트_포스(BruteForce).md)
 - [삽입 정렬(Insertion Sort)](Algorithm/삽입_정렬(InsertionSort).md)
 - [에라토스테네스의 체](Algorithm/에라토스테네스의_체.md)
+- [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md)
 - [재귀함수](Algorithm/재귀함수.md)
 
 ### [data_analysis](#data_analysis)
