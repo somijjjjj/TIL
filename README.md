@@ -6,19 +6,20 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md) - Wed Jul 13 23:14:31 2022 +0900
-- [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(BubbleSort).md) - Tue Jul 12 23:40:54 2022 +0900
+- [데이터 분석이란?](DataAnalysis/데이터_분석이란.md) - Sat Jul 16 23:49:56 2022 +0900
+- [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md) - Sat Jul 16 23:49:56 2022 +0900
 
 ### Categories
 
 - [Algorithm](#Algorithm)
-- [data_analysis](#data_analysis)
+- [DataAnalysis](#DataAnalysis)
+- [MachineLearning](#MachineLearning)
 - [program](#program)
 - [python](#python)
 
@@ -30,8 +31,11 @@ _11 TILs and counting..._
 - [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md)
 - [재귀함수](Algorithm/재귀함수.md)
 
-### [data_analysis](#data_analysis)
-- [데이터 분석이란?](data_analysis/데이터_분석이란.md)
+### [DataAnalysis](#DataAnalysis)
+- [데이터 분석이란?](DataAnalysis/데이터_분석이란.md)
+
+### [MachineLearning](#MachineLearning)
+- [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md)
 
 ### [program](#program)
 - [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
