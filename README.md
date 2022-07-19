@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_12 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [데이터 분석이란?](DataAnalysis/데이터_분석이란.md) - Sat Jul 16 23:49:56 2022 +0900
-- [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md) - Sat Jul 16 23:49:56 2022 +0900
+- [결측치보간 interpolate() 메서드](python/interpolate()_메서드.md) - Tue Jul 19 16:07:13 2022 +0900
+- [](MachineLearning/Random_Forest(랜덤포레스트).md) - Tue Jul 19 16:07:13 2022 +0900
 
 ### Categories
 
@@ -36,6 +36,7 @@ _12 TILs and counting..._
 
 ### [MachineLearning](#MachineLearning)
 - [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md)
+- [](MachineLearning/Random_Forest(랜덤포레스트).md)
 
 ### [program](#program)
 - [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
@@ -43,6 +44,7 @@ _12 TILs and counting..._
 ### [python](#python)
 - [List Comprehension](python/Comprehension.md)
 - [python, 내장함수 format()](python/format함수.md)
+- [결측치보간 interpolate() 메서드](python/interpolate()_메서드.md)
 - [sys.stdin.readline()과 input()](python/sys.stdin.readline()_input().md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
