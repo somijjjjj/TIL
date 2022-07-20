@@ -1,4 +1,3 @@
-
 # Random Forest(랜덤포레스트)
 
 ![](https://velog.velcdn.com/images/silver0/post/14bb8fb1-73c0-4f13-a2aa-aaf810f189d1/image.png)
