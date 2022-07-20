@@ -13,7 +13,7 @@ _15 TILs and counting..._
 ### 2 most recent TILs
 
 - [선택 정렬(selection sort)](Algorithm/선택_정렬(selectionSort).md) - Wed Jul 20 17:11:36 2022 +0900
-- [](MachineLearning/Random_Forest(랜덤포레스트).md) - Tue Jul 19 16:07:13 2022 +0900
+- [Random Forest(랜덤포레스트)](MachineLearning/Random_Forest(랜덤포레스트).md) - Tue Jul 19 16:07:13 2022 +0900
 
 ### Categories
 
@@ -37,7 +37,7 @@ _15 TILs and counting..._
 
 ### [MachineLearning](#MachineLearning)
 - [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md)
-- [](MachineLearning/Random_Forest(랜덤포레스트).md)
+- [Random Forest(랜덤포레스트)](MachineLearning/Random_Forest(랜덤포레스트).md)
 
 ### [program](#program)
 - [지식인 질문 자동 댓글 프로그램](program/auto_PR.md)
