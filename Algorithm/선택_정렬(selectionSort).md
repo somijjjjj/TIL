@@ -73,3 +73,16 @@ void selectionSort(int[] list) {
          - 이중 선택 정렬 : 한 번의 탐색에서 최솟값과 최댓값을 같이 찾는 방법이다. 탐색 횟수가 절반으로 줄어들게 된다.
          - 탐색을 응용하여 개선 : 한 번의 탐색 때 동일한 값이 있다면 함께 정렬하는 방법이다. 같은 값이 많을 수록 유용하다.
  - T(n) = O(n^2)
+
+ ---
+
+<br>
+<br>
+
+> Reference
+>- 『알고리즘 도감』, 이시다 모리테루, 미야자키 쇼이치 - 제이펍
+>- https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+>- https://cloudstudying.kr/courses/59
+>- https://codepumpkin.com/category/algorithms/
+>- https://gmlwjd9405.github.io/tags#algorithm
+>- https://www.daleseo.com/sort-merge/

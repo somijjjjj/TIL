@@ -88,3 +88,16 @@ void insertionSort(int[] arr)
    }
 }
 ```
+
+---
+
+<br>
+<br>
+
+> Reference
+>- 『알고리즘 도감』, 이시다 모리테루, 미야자키 쇼이치 - 제이펍
+>- https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+>- https://cloudstudying.kr/courses/59
+>- https://codepumpkin.com/category/algorithms/
+>- https://gmlwjd9405.github.io/tags#algorithm
+>- https://www.daleseo.com/sort-merge/
