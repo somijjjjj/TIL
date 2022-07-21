@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_15 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [선택 정렬(selection sort)](Algorithm/선택_정렬(selectionSort).md) - Wed Jul 20 17:11:36 2022 +0900
-- [Random Forest(랜덤포레스트)](MachineLearning/Random_Forest(랜덤포레스트).md) - Tue Jul 19 16:07:13 2022 +0900
+- [Index](백준 단계별 문제/정렬.md) - Fri Jul 22 01:52:51 2022 +0900
+- [Index](백준 단계별 문제/문자열.md) - Fri Jul 22 01:52:51 2022 +0900
 
 ### Categories
 
@@ -22,6 +22,7 @@ _15 TILs and counting..._
 - [MachineLearning](#MachineLearning)
 - [program](#program)
 - [python](#python)
+- [백준 단계별 문제](#백준 단계별 문제)
 
 ### [Algorithm](#Algorithm)
 - [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(BubbleSort).md)
@@ -47,6 +48,21 @@ _15 TILs and counting..._
 - [python, 내장함수 format()](python/format함수.md)
 - [결측치보간 interpolate() 메서드](python/interpolate()_메서드.md)
 - [sys.stdin.readline()과 input()](python/sys.stdin.readline()_input().md)
+
+### [백준 단계별 문제](#백준 단계별 문제)
+- [](백준 단계별 문제/1차원_배열.md)
+- [Index](백준 단계별 문제/기본_수학1.md)
+- [Index](백준 단계별 문제/기본_수학2.md)
+- [기하 1](백준 단계별 문제/기하_1.md)
+- [Index](백준 단계별 문제/문자열.md)
+- [](백준 단계별 문제/반복문.md)
+- [Index](백준 단계별 문제/브루트_포스.md)
+- [Index](백준 단계별 문제/재귀.md)
+- [Index](백준 단계별 문제/정렬.md)
+- [정수론 및 조합론](백준 단계별 문제/정수론_및_조합론.md)
+- [](백준 단계별 문제/조건문.md)
+- [Index](백준 단계별 문제/집합과_맵.md)
+- [](백준 단계별 문제/함수.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
