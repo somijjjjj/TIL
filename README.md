@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_28 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Index](백준 단계별 문제/정렬.md) - Fri Jul 22 01:52:51 2022 +0900
-- [Index](백준 단계별 문제/문자열.md) - Fri Jul 22 01:52:51 2022 +0900
+- [퀵 정렬(quick sort)](Algorithm/퀵_정렬(quickSort).md) - Fri Jul 22 02:05:24 2022 +0900
+- [병합 정렬(merge sort)](Algorithm/병합_정렬(mergeSort).md) - Fri Jul 22 02:05:24 2022 +0900
 
 ### Categories
 
@@ -26,12 +26,15 @@ _28 TILs and counting..._
 
 ### [Algorithm](#Algorithm)
 - [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(BubbleSort).md)
+- [병합 정렬(merge sort)](Algorithm/병합_정렬(mergeSort).md)
 - [브루트 포스 (Brute Force)](Algorithm/브루트_포스(BruteForce).md)
 - [삽입 정렬(Insertion Sort)](Algorithm/삽입_정렬(InsertionSort).md)
 - [선택 정렬(selection sort)](Algorithm/선택_정렬(selectionSort).md)
 - [에라토스테네스의 체](Algorithm/에라토스테네스의_체.md)
 - [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md)
 - [재귀함수](Algorithm/재귀함수.md)
+- [퀵 정렬(quick sort)](Algorithm/퀵_정렬(quickSort).md)
+- [힙 정렬(heap sort)](Algorithm/힙_정렬(heapSort).md)
 
 ### [DataAnalysis](#DataAnalysis)
 - [데이터 분석이란?](DataAnalysis/데이터_분석이란.md)
