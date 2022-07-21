@@ -12,8 +12,8 @@ _31 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [퀵 정렬(quick sort)](Algorithm/퀵_정렬(quickSort).md) - Fri Jul 22 02:05:24 2022 +0900
-- [병합 정렬(merge sort)](Algorithm/병합_정렬(mergeSort).md) - Fri Jul 22 02:05:24 2022 +0900
+- [브루트 포스](백준_단계별_문제/브루트_포스.md) - Fri Jul 22 02:09:39 2022 +0900
+- [문자열](백준_단계별_문제/문자열.md) - Fri Jul 22 02:09:39 2022 +0900
 
 ### Categories
 
@@ -22,7 +22,7 @@ _31 TILs and counting..._
 - [MachineLearning](#MachineLearning)
 - [program](#program)
 - [python](#python)
-- [백준 단계별 문제](#백준 단계별 문제)
+- [백준_단계별_문제](#백준_단계별_문제)
 
 ### [Algorithm](#Algorithm)
 - [버블 정렬(Bubble Sort)](Algorithm/버블_정렬(BubbleSort).md)
@@ -52,20 +52,20 @@ _31 TILs and counting..._
 - [결측치보간 interpolate() 메서드](python/interpolate()_메서드.md)
 - [sys.stdin.readline()과 input()](python/sys.stdin.readline()_input().md)
 
-### [백준 단계별 문제](#백준 단계별 문제)
-- [](백준 단계별 문제/1차원_배열.md)
-- [Index](백준 단계별 문제/기본_수학1.md)
-- [Index](백준 단계별 문제/기본_수학2.md)
-- [기하 1](백준 단계별 문제/기하_1.md)
-- [Index](백준 단계별 문제/문자열.md)
-- [](백준 단계별 문제/반복문.md)
-- [Index](백준 단계별 문제/브루트_포스.md)
-- [Index](백준 단계별 문제/재귀.md)
-- [Index](백준 단계별 문제/정렬.md)
-- [정수론 및 조합론](백준 단계별 문제/정수론_및_조합론.md)
-- [](백준 단계별 문제/조건문.md)
-- [Index](백준 단계별 문제/집합과_맵.md)
-- [](백준 단계별 문제/함수.md)
+### [백준_단계별_문제](#백준_단계별_문제)
+- [1차원 배열](백준_단계별_문제/1차원_배열.md)
+- [기본 수학 1](백준_단계별_문제/기본_수학1.md)
+- [기본 수학 2](백준_단계별_문제/기본_수학2.md)
+- [기하 1](백준_단계별_문제/기하_1.md)
+- [문자열](백준_단계별_문제/문자열.md)
+- [반복문](백준_단계별_문제/반복문.md)
+- [브루트 포스](백준_단계별_문제/브루트_포스.md)
+- [재귀](백준_단계별_문제/재귀.md)
+- [정렬](백준_단계별_문제/정렬.md)
+- [정수론 및 조합론](백준_단계별_문제/정수론_및_조합론.md)
+- [조건문](백준_단계별_문제/조건문.md)
+- [집합과 맵](백준_단계별_문제/집합과_맵.md)
+- [함수](백준_단계별_문제/함수.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
