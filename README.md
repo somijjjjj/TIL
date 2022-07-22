@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [브루트 포스](백준_단계별_문제/브루트_포스.md) - Fri Jul 22 02:09:39 2022 +0900
-- [문자열](백준_단계별_문제/문자열.md) - Fri Jul 22 02:09:39 2022 +0900
+- [알고리즘의 기본](Algorithm/알고리즘의_기본.md) - Sat Jul 23 01:00:27 2022 +0900
+- [정수론 및 조합론](백준_단계별_문제/정수론_및_조합론.md) - Fri Jul 22 02:09:39 2022 +0900
 
 ### Categories
 
@@ -30,6 +30,7 @@ _31 TILs and counting..._
 - [브루트 포스 (Brute Force)](Algorithm/브루트_포스(BruteForce).md)
 - [삽입 정렬(Insertion Sort)](Algorithm/삽입_정렬(InsertionSort).md)
 - [선택 정렬(selection sort)](Algorithm/선택_정렬(selectionSort).md)
+- [알고리즘의 기본](Algorithm/알고리즘의_기본.md)
 - [에라토스테네스의 체](Algorithm/에라토스테네스의_체.md)
 - [이분 탐색(Binaray Search)](Algorithm/이분_탐색(BinaraySearch).md)
 - [재귀함수](Algorithm/재귀함수.md)
