@@ -6,19 +6,20 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_32 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [알고리즘의 기본](Algorithm/알고리즘의_기본.md) - Sat Jul 23 01:00:27 2022 +0900
-- [정수론 및 조합론](백준_단계별_문제/정수론_및_조합론.md) - Fri Jul 22 02:09:39 2022 +0900
+- [힙(heap)](DataStructure/힙.md) - Sun Jul 24 21:17:54 2022 +0900
+- [해시 테이블(hash table)](DataStructure/해시테이블.md) - Sun Jul 24 21:17:54 2022 +0900
 
 ### Categories
 
 - [Algorithm](#Algorithm)
 - [DataAnalysis](#DataAnalysis)
+- [DataStructure](#DataStructure)
 - [MachineLearning](#MachineLearning)
 - [program](#program)
 - [python](#python)
@@ -39,6 +40,16 @@ _32 TILs and counting..._
 
 ### [DataAnalysis](#DataAnalysis)
 - [데이터 분석이란?](DataAnalysis/데이터_분석이란.md)
+
+### [DataStructure](#DataStructure)
+- [데이터 구조란?](DataStructure/데이터_구조_이해.md)
+- [리스트(list)](DataStructure/리스트.md)
+- [배열](DataStructure/배열.md)
+- [스택(stack)](DataStructure/스택.md)
+- [이진 탐색 트리(binary search tree)](DataStructure/이진탐색트리.md)
+- [큐(Queue)](DataStructure/큐.md)
+- [해시 테이블(hash table)](DataStructure/해시테이블.md)
+- [힙(heap)](DataStructure/힙.md)
 
 ### [MachineLearning](#MachineLearning)
 - [Decision Tree Regression (의사결정나무)](MachineLearning/Decision_Tree_Regression(의사결정나무).md)
