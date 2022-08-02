@@ -6,14 +6,14 @@
 - 언제든지 찾기 쉽고 나중에라도 다시 볼 수 있게 자세히 기록한다.
 
 
-_40 TILs and counting..._
+_41 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [데이터 구조란?](DataStructure/데이터_구조_이해.md) - Sun Jul 24 21:17:54 2022 +0900
 - [힙(heap)](DataStructure/힙.md) - Sun Jul 24 21:17:54 2022 +0900
-- [해시 테이블(hash table)](DataStructure/해시테이블.md) - Sun Jul 24 21:17:54 2022 +0900
 
 ### Categories
 
@@ -71,6 +71,7 @@ _40 TILs and counting..._
 - [기하 1](백준_단계별_문제/기하_1.md)
 - [문자열](백준_단계별_문제/문자열.md)
 - [반복문](백준_단계별_문제/반복문.md)
+- [백트래킹](백준_단계별_문제/백트래킹.md)
 - [브루트 포스](백준_단계별_문제/브루트_포스.md)
 - [재귀](백준_단계별_문제/재귀.md)
 - [정렬](백준_단계별_문제/정렬.md)
